@@ -1,0 +1,21 @@
+{
+  "name": "monocious",
+  "displayName": "Monocious",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monocious",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monocious-color-theme.json"
+      }
+    ]
+  }
+}
