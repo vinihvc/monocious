@@ -1,13 +1,25 @@
 {
   "name": "monocious",
   "displayName": "Monocious",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A dark theme for Visual Studio Code",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
   },
+  "publisher": "vinihvc",
   "categories": [
     "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinihvc/monocious"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "color",
+    "monokai",
+    "tinacious"
   ],
   "contributes": {
     "themes": [
